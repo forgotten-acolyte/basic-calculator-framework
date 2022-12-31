@@ -1,4 +1,4 @@
-package Expressions.Tokens.Operands.Abstraction;
+package main.java.Expressions.Tokens.Operands.Abstraction;
 
 import Value.Abstraction.Value;
 

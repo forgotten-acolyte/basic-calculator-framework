@@ -1,4 +1,4 @@
-package com.company.leetcode.BasicCalculator.INTEPRETOR_pattern.Lexing;
+package INTEPRETOR_pattern.Lexing;
 
 public class DRIVER_class {
 

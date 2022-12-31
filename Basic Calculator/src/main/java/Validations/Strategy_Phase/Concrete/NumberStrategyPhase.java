@@ -1,6 +1,7 @@
-package com.company.leetcode.BasicCalculator.Validations.Strategy_Phase.Concrete;
+package main.java.Validations.Strategy_Phase.Concrete;
 
-import com.company.leetcode.BasicCalculator.Validations.Strategy_Phase.Abstraction.BaseStrategyPhase;
+
+import main.java.Validations.Strategy_Phase.Abstraction.BaseStrategyPhase;
 
 public class NumberStrategyPhase extends BaseStrategyPhase {
 

@@ -1,4 +1,4 @@
-package Expressions.Tokens.Operands.Abstraction;
+package main.java.Expressions.Tokens.Operands.Abstraction;
 
 public abstract class BaseOperand implements Operand {
 

@@ -1,8 +1,7 @@
-package Expressions.Tokens.Operands.Concrete;
+package main.java.Expressions.Tokens.Operands.Concrete;
 
-
-import Expressions.Tokens.Operands.Abstraction.BaseOperand;
 import Value.Abstraction.Value;
+import main.java.Expressions.Tokens.Operands.Abstraction.BaseOperand;
 
 import java.util.List;
 
